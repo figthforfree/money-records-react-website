@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/money-records-react-website/static/css/main.f3d3984d.chunk.css",
+    "main.js": "/money-records-react-website/static/js/main.8d3c29ad.chunk.js",
+    "main.js.map": "/money-records-react-website/static/js/main.8d3c29ad.chunk.js.map",
+    "runtime-main.js": "/money-records-react-website/static/js/runtime-main.84dcc9ba.js",
+    "runtime-main.js.map": "/money-records-react-website/static/js/runtime-main.84dcc9ba.js.map",
+    "static/js/2.3d492ab8.chunk.js": "/money-records-react-website/static/js/2.3d492ab8.chunk.js",
+    "static/js/2.3d492ab8.chunk.js.map": "/money-records-react-website/static/js/2.3d492ab8.chunk.js.map",
+    "index.html": "/money-records-react-website/index.html",
+    "static/css/main.f3d3984d.chunk.css.map": "/money-records-react-website/static/css/main.f3d3984d.chunk.css.map",
+    "static/js/2.3d492ab8.chunk.js.LICENSE.txt": "/money-records-react-website/static/js/2.3d492ab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84dcc9ba.js",
+    "static/js/2.3d492ab8.chunk.js",
+    "static/css/main.f3d3984d.chunk.css",
+    "static/js/main.8d3c29ad.chunk.js"
+  ]
+}
